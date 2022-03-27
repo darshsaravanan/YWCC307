@@ -1,2 +1,2 @@
 # YWCC307
-My project is about the supercomputer IBM-Watson. What it is, how it works, who uses it, how is it helpful to businness, and its uses. 
+My project is about the supercomputer IBM-Watson. I spoke about what it is, it's capabilities, why is it important, which companies use it, and it's popularity with businesses.
